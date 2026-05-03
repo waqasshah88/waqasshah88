@@ -96,6 +96,16 @@ Stripe · PostgreSQL · Redis · Docker
 
 ---
 
+### 🏜️ Saya — AI Classroom Peer for K-12
+[Live Demo](https://www.saya-io.com) 
+
+*   **Dual-Mode AI:** Engineered a versatile agent with "Classroom Mode" (group dynamics) and "Home Mode" (1-on-1 personalized study support).
+*   **Core Logic:** Developed a synthetic peer agent that uses "compact" prompt variants to participate in discussions without overwhelming the user.
+*   **Production Stack:** Deployed on Vercel with Neon PostgreSQL and Anthropic Claude 3.5 Sonnet.
+*   **Security:** Implemented CSRF-protected middleware and NextAuth session management for school safety.
+
+---
+
 ### 🎓 Alumni Portal
 > Connecting university graduates through 
 > a centralized web platform.
@@ -111,9 +121,10 @@ Stripe · PostgreSQL · Redis · Docker
 
 <div align="center">
 
-![Waqas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=waqasshah88&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&count_private=true)
+![Waqas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=waqasshah88&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waqasshah88&layout=compact&theme=default&hide_border=true&bg_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waqasshah88&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
+
 
 </div>
 
