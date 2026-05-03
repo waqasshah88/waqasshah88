@@ -101,7 +101,7 @@ Stripe · PostgreSQL · Redis · Docker
 
 *   **Dual-Mode AI:** Engineered a versatile agent with "Classroom Mode" (group dynamics) and "Home Mode" (1-on-1 personalized study support).
 *   **Core Logic:** Developed a synthetic peer agent that uses "compact" prompt variants to participate in discussions without overwhelming the user.
-*   **Production Stack:** Deployed on Vercel with Neon PostgreSQL and Anthropic Claude 3.5 Sonnet.
+*   **Stack:** Next.js 16 (App Router), TypeScript, Tailwind CSS, Prisma, Neon PostgreSQL, Anthropic Claude 3.5.
 *   **Security:** Implemented CSRF-protected middleware and NextAuth session management for school safety.
 
 ---
@@ -121,9 +121,11 @@ Stripe · PostgreSQL · Redis · Docker
 
 <div align="center">
 
-![Waqas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=waqasshah88&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+### 📊 GitHub Stats
+![Waqas's Stats](https://github-readme-stats.vercel.app/api?username=waqasshah88&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waqasshah88&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waqasshah88&layout=compact&theme=transparent)
+
 
 
 </div>
