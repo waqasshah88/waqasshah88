@@ -49,7 +49,7 @@ Full-stack AI SaaS that transforms how students learn and retain knowledge. Sema
 `Next.js` `FastAPI` `Claude API` `PostgreSQL`  
 `Supabase Auth` `Redis` `Stripe` `Tailwind CSS`
 
-**Live in production — Private Repo**
+[![Live Site](https://img.shields.io/badge/Live-www.saya--io.com-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://www.saya-io.com) **Private Repo**
 
 </td>
 <td width="50%" valign="top">
@@ -153,6 +153,103 @@ DevOps      →  Docker · GitHub Actions · Vercel · Railway · AWS · Nginx
 ```
 
 </p>
+
+---
+
+## APIs & Integrations
+
+Every project I build is wired together with the right third-party APIs. Below is my full integration repertoire — all battle-tested in production or client work.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Anthropic / Claude API**
+- Messages API — streaming, multi-turn, system prompts
+- Tool Use — function calling, structured outputs, agents
+- Vision — image analysis, document understanding
+- Files API — PDF ingestion, batch document processing
+- Batch API — high-volume async inference at scale
+- Computer Use (beta) — UI automation agents
+- MCP (Model Context Protocol) — Claude connected to any data source
+- RAG pipelines — embeddings, vector search, context retrieval
+- Prompt caching — latency and cost optimization
+
+**AI / LLM**
+- OpenAI (GPT-4o, Whisper, DALL-E, Embeddings)
+- Google Gemini API & Google AI Studio
+- ElevenLabs — AI voice synthesis & cloning
+- Stability AI / Replicate — image generation
+- Deepgram / AssemblyAI — speech-to-text transcription
+- Pinecone / Weaviate / pgvector — vector databases
+
+**Payments & Commerce**
+- Stripe — subscriptions, usage billing, webhooks, Connect
+- Paddle — SaaS billing with tax handling
+- LemonSqueezy — indie SaaS payments
+- PayPal REST API
+- Shopify Admin API + Storefront API + Webhooks
+
+**Auth & Identity**
+- Supabase Auth (OAuth2, magic links, RLS)
+- Clerk — drop-in auth with orgs & RBAC
+- Auth0 — enterprise identity management
+- NextAuth.js — flexible Next.js auth
+- Firebase Auth
+
+</td>
+<td width="50%" valign="top">
+
+**Email & Communication**
+- Resend — transactional email (React templates)
+- SendGrid — bulk email, templates, analytics
+- Postmark — high-deliverability transactional
+- Mailchimp API — marketing campaigns & lists
+- Twilio — SMS, WhatsApp, Voice calls
+- WhatsApp Business API — conversational commerce
+
+**Storage & Databases**
+- Supabase (Postgres + Realtime + Storage)
+- Neon — serverless Postgres
+- PlanetScale — MySQL serverless
+- MongoDB Atlas API
+- Cloudflare R2 / AWS S3 — object storage
+- Redis / Upstash — caching & queues
+
+**Google APIs**
+- Google Maps / Places / Geocoding
+- Google Calendar — scheduling & event sync
+- Google Drive / Docs — document automation
+- Google Vision — OCR & image labeling
+- Google Search Console — SEO data
+- Google Analytics (GA4) data API
+- Google OAuth2
+
+**Analytics & Monitoring**
+- PostHog — product analytics & feature flags
+- Mixpanel — event tracking
+- Plausible — privacy-first web analytics
+- Sentry — error tracking & performance
+- Datadog — infrastructure monitoring
+
+**Productivity & Social**
+- Notion API — knowledge base automation
+- Airtable API — no-code database workflows
+- HubSpot CRM API — contacts, deals, pipelines
+- Slack API — bot building & notifications
+- Twitter/X API — social automation
+- LinkedIn API — profile & post data
+- Instagram Graph API — media & insights
+
+**Automation & Webhooks**
+- Zapier — no-code workflow triggers
+- n8n — self-hosted automation pipelines
+- Make (Integromat) — visual workflow builder
+- GitHub API & Webhooks — CI/CD integrations
+
+</td>
+</tr>
+</table>
 
 ---
 
