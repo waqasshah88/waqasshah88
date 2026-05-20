@@ -15,7 +15,7 @@
 <p align="center">
   <a href="mailto:waqas.shah88@gmail.com"><img src="https://img.shields.io/badge/Email-waqas.shah88%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://www.upwork.com/freelancers/waqasshah88"><img src="https://img.shields.io/badge/Upwork-Hire_Me_Now-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/waqasshah88"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/waqas-ali-shah-999667128/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -295,7 +295,7 @@ Every project I build is wired together with the right third-party APIs. Below i
 <p align="center">
   <a href="mailto:waqas.shah88@gmail.com"><img src="https://img.shields.io/badge/Email_Me-waqas.shah88%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://www.upwork.com/freelancers/waqasshah88"><img src="https://img.shields.io/badge/Upwork-View_Profile_%26_Hire-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/waqasshah88"><img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/waqas-ali-shah-999667128/"><img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>Self-taught · Remote · Available Now · Production-grade code only · No shortcuts taken</i></p>
