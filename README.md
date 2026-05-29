@@ -50,7 +50,7 @@ Multi-agent AI platform that bridges passive monitoring and autonomous resolutio
 `FastAPI` `React` `Claude API` `PostgreSQL`  
 `pgvector` `Celery` `Redis` `Multi-tenant`
 
-[![Live Site](https://img.shields.io/badge/Live-ops.saya--io.com-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://ops.saya-io.com) **Private Repo**
+[![Live Site](https://img.shields.io/badge/Live-app.saya--io.com-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://app.saya-io.com) **Private Repo**
 
 </td>
 <td width="33%" valign="top">
@@ -82,7 +82,7 @@ Complete alumni management system: directories, event management, job boards, me
 `React` `Node.js` `Firebase` `Gemini AI`  
 `Stripe` `JWT` `RBAC` `Tailwind CSS`
 
-**Live in production — Private Repo**
+[![Live Site](https://img.shields.io/badge/Live-alumni--portal-58A6FF?style=flat-square&logo=railway&logoColor=white)](https://alumni-portal-baa-production.up.railway.app/) **Private Repo**
 
 </td>
 </tr>
