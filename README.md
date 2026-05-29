@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Building+production+AI+SaaS+%E2%80%94+zero+to+deployed%2C+solo.;Claude+API+%2B+Next.js+%2B+FastAPI+%E2%80%94+real+products%2C+real+users.;Shopify+%26+headless+commerce+%E2%80%94+built+for+conversion.;SEO+that+ranks%2C+converts%2C+and+compounds.;From+idea+to+live+product+%E2%80%94+faster+than+a+team." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Building+production+AI+SaaS+%E2%80%94+zero+to+deployed%2C+solo.;Claude+API+%2B+Next.js+%2B+FastAPI+%E2%80%94+real+products%2C+real+users.;Enterprise+AI+Ops+Copilot+%E2%80%94+multi-agent%2C+HITL%2C+production.;Shopify+%26+headless+commerce+%E2%80%94+built+for+conversion.;From+idea+to+live+product+%E2%80%94+faster+than+a+team." alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,6 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=waqasshah88&label=Profile+Views&color=0e75b6&style=flat-square" />
   <img src="https://img.shields.io/github/followers/waqasshah88?label=Followers&style=flat-square&color=0e75b6" />
   <img src="https://img.shields.io/badge/Status-Available_for_Hire-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Response_Time-Under_24h-blue?style=flat-square" />
 </p>
 
 <p align="center">
@@ -24,7 +25,7 @@
 
 I build **production-grade AI SaaS products, full-stack web applications, Shopify stores, and SEO-driven experiences** — from first commit to live deployment, working solo with the speed of a full team.
 
-My edge: I develop with **Claude Code inside Google AI Studio**, combining deep engineering experience with the most advanced AI development tooling available today. The result is senior-level architecture and execution, delivered at startup speed.
+My edge: I develop with **Claude Code**, combining deep engineering experience with the most advanced AI development tooling available today. The result is senior-level architecture and execution, delivered at startup speed.
 
 Every system I ship is production-ready — real auth, real payments, real databases, clean code. Not prototypes. Not demos.
 
@@ -36,7 +37,23 @@ Every system I ship is production-ready — real auth, real payments, real datab
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### SayaOps — AI Ops Copilot
+
+> *Enterprise-grade cognitive orchestrator for IT operations*
+
+Multi-agent AI platform that bridges passive monitoring and autonomous resolution. Combines LLM-powered execution loops with DAG-based background workflows and Human-in-the-Loop safety gates — so AI acts, but humans stay in control.
+
+**Architecture:** FastAPI backend · React SPA (45KB gzipped) · Celery + Redis workers · Supabase Postgres + pgvector · multi-tenant RLS · JWT auth · Cloudflare Pages + Koyeb.
+
+`FastAPI` `React` `Claude API` `PostgreSQL`  
+`pgvector` `Celery` `Redis` `Multi-tenant`
+
+[![Live Site](https://img.shields.io/badge/Live-ops.saya--io.com-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://ops.saya-io.com) **Private Repo**
+
+</td>
+<td width="33%" valign="top">
 
 ### Saya — AI Learning Platform
 
@@ -52,18 +69,18 @@ Full-stack AI SaaS that transforms how students learn and retain knowledge. Sema
 [![Live Site](https://img.shields.io/badge/Live-www.saya--io.com-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://www.saya-io.com) **Private Repo**
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Alumni Portal — Institutional SaaS
 
 > *Enterprise platform for universities & schools*
 
-Complete alumni management system: directories, event management, job boards, mentorship matching, donation pipelines, role-based admin dashboards, and multi-tenant architecture.
+Complete alumni management system: directories, event management, job boards, mentorship matching, donation pipelines, role-based admin dashboards, and multi-tenant architecture. AI-powered career trajectory insights via Gemini.
 
-**Built end-to-end:** Schema design → REST APIs → RBAC auth → Stripe flows → admin panel → responsive public site.
+**Built end-to-end:** Schema → REST APIs → RBAC auth → Stripe flows → admin panel → responsive public site.
 
-`Next.js` `FastAPI` `PostgreSQL` `Tailwind CSS`  
-`Stripe` `JWT` `RBAC` `Vercel`
+`React` `Node.js` `Firebase` `Gemini AI`  
+`Stripe` `JWT` `RBAC` `Tailwind CSS`
 
 **Live in production — Private Repo**
 
@@ -75,6 +92,10 @@ Complete alumni management system: directories, event management, job boards, me
 
 ## Public Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### Legal Copilot — AI Contract Analysis SaaS
 
 > *Review any contract in 60 seconds — no lawyer needed*
@@ -84,6 +105,49 @@ AI-powered SaaS that analyzes contracts, surfaces risks, and explains legal lang
 `TypeScript` `Next.js` `Claude API` `PostgreSQL` `Tailwind CSS`
 
 [![View Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/waqasshah88/legalcopilot)
+
+</td>
+<td width="50%" valign="top">
+
+### Creative Agency Portfolio
+
+> *High-performance animated portfolio site*
+
+Premium Next.js 14 portfolio with GPU-accelerated GSAP animations, interactive Three.js particle systems, Lenis smooth scroll, and sub-second load times. Built as a reusable template for creative agencies.
+
+`TypeScript` `Next.js 14` `Three.js` `GSAP` `Tailwind CSS` `Lenis`
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/waqasshah88/portfolio-site)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Construction Company Landing Page
+
+> *3D animated marketing site with WebGL*
+
+High-impact construction company marketing page built with React 19, Vite, and Three.js. Features a fluid WebGL hero, 3D project carousel, interactive node globe, and GSAP scroll animations throughout.
+
+`TypeScript` `React 19` `Three.js` `GSAP` `Tailwind CSS` `Vite` `Lenis`
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/waqasshah88/construction-landing-page)
+
+</td>
+<td width="50%" valign="top">
+
+### More Coming Soon
+
+Currently building and preparing additional projects for public release — AI agents, SaaS boilerplates, and headless Shopify templates.
+
+**Want something custom built?**
+
+[![Hire on Upwork](https://img.shields.io/badge/Upwork-Let's_Talk-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~012ce2767d5545089e)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -99,6 +163,7 @@ AI-powered SaaS that analyzes contracts, surfaces risks, and explains legal lang
 - Custom AI agents with tool use, memory & context management
 - Workflow automation replacing manual business processes
 - Multi-turn conversational systems with long-term memory
+- Enterprise AIOps — multi-agent, HITL, autonomous remediation
 
 **Full-Stack SaaS & Web Apps**
 - Next.js + FastAPI — SSR, API routes, async background tasks
@@ -110,19 +175,22 @@ AI-powered SaaS that analyzes contracts, surfaces risks, and explains legal lang
 </td>
 <td width="50%" valign="top">
 
+**Frontend & Animations**
+- High-performance 3D sites — Three.js, WebGL, GPU-accelerated
+- Scroll animations — GSAP, Lenis, Framer Motion
+- React 19 / Next.js 14 — SSR, ISR, App Router
+- UI systems — Tailwind CSS, shadcn/ui, responsive + accessible
+
 **Shopify Development**
 - Custom stores built for conversion — Liquid, theme customization
 - Shopify app integrations — third-party APIs, metafields
 - Headless Shopify with Next.js and Storefront API
 - Store migrations, speed optimization, UX improvements
-- Order workflows and inventory management automations
 
 **SEO**
 - Technical SEO — Core Web Vitals, structured data, sitemaps
-- On-page strategy — keyword architecture, metadata, internal linking
 - Next.js SSR SEO — dynamic meta, Open Graph, JSON-LD
 - Site speed — LCP, CLS, FID optimization
-- Google Search Console setup & monitoring
 
 </td>
 </tr>
@@ -141,15 +209,15 @@ AI-powered SaaS that analyzes contracts, surfaces risks, and explains legal lang
 <p align="center">
 
 ```
-Frontend    →  Next.js · React · TypeScript · Tailwind CSS · shadcn/ui
-Backend     →  FastAPI · Python · Node.js · REST · WebSockets
-AI / LLM    →  Claude API · Claude Code · Google AI Studio · RAG · Embeddings
-Databases   →  PostgreSQL · Supabase · Redis · MongoDB · Prisma ORM
+Frontend    →  Next.js · React · TypeScript · Tailwind CSS · shadcn/ui · Three.js · GSAP
+Backend     →  FastAPI · Python · Node.js · REST · WebSockets · Celery
+AI / LLM    →  Claude API · Claude Code · Google AI Studio · RAG · Embeddings · Agents
+Databases   →  PostgreSQL · Supabase · Redis · MongoDB · Prisma ORM · pgvector
 Auth        →  Supabase Auth · NextAuth · JWT · OAuth2 · RBAC · Multi-tenant
 Payments    →  Stripe (Subscriptions · Usage Billing · Webhooks · Donations)
 Shopify     →  Liquid · Storefront API · Headless · Theme Dev
 SEO         →  Technical SEO · Core Web Vitals · JSON-LD · Next.js SSR SEO
-DevOps      →  Docker · GitHub Actions · Vercel · Railway · AWS · Nginx
+DevOps      →  Docker · GitHub Actions · Vercel · Railway · Koyeb · AWS · Nginx
 ```
 
 </p>
@@ -275,11 +343,13 @@ Every project I build is wired together with the right third-party APIs. Below i
 | Service | Timeline | Starting At |
 |---|---|---|
 | Full AI SaaS Product (End-to-End) | 6–10 weeks | **$5,000** |
+| Enterprise AI Ops / Agentic Platform | 4–8 weeks | **$4,000** |
 | Next.js + FastAPI Web Application | 2–4 weeks | **$2,500** |
 | Claude API / AI Feature Integration | 1–2 weeks | **$800** |
 | Custom AI Chatbot or Assistant | 1–2 weeks | **$700** |
 | Shopify Store Build or Redesign | 1–3 weeks | **$800** |
 | Headless Shopify (Next.js) | 2–4 weeks | **$2,000** |
+| 3D / Animated Landing Page | 1–2 weeks | **$1,200** |
 | SEO Audit + Full Implementation | 3–7 days | **$500** |
 | Auth + Stripe Payments Setup | 3–5 days | **$600** |
 | Admin Dashboard | 1–2 weeks | **$900** |
