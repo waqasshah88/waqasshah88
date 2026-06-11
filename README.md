@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=waqasshah88&label=Profile+Views&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/waqasshah88?label=Followers&style=flat-square&color=0e75b6" />
   <img src="https://img.shields.io/badge/Status-Available_for_Hire-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Response_Time-Under_24h-blue?style=flat-square" />
 </p>
@@ -371,3 +370,4 @@ Every project I build is wired together with the right third-party APIs. Below i
 <p align="center"><i>Self-taught · Remote · Available Now · Production-grade code only · No shortcuts taken</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
